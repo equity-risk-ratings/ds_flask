@@ -4,7 +4,7 @@ APP = Flask(__name__)
 
 @APP.route('/api', methods=['POST'])
 def returnRisk():
-    data = request.get_json(force=True)
+     data = request.get_json(force=True)
 
     risk_rating = {'amazon': "risk", 'apple': "risk", 'bofa': "risk", 'berkshire': "risk", 'google': "risk", 'jpm': "risk",
                    'johnson': "risk", 'mastercard': "risk", 'microsoft': "risk", 'proctor': "risk", 'visa': "risk",

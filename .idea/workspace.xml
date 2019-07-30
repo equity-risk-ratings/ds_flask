@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcbe910b-a34e-4726-bf78-8966f0efae17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/equities.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DS-Unit-2-Project-2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lambdatadwight/lambdatadwight.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lambdatadwight/lambdatadwight/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lambdatadwight/setup.py" beforeDir="false" />
@@ -22,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="315">
+              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -48,8 +45,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1995" />
-    <option name="y" value="381" />
+    <option name="x" value="1048" />
+    <option name="y" value="334" />
     <option name="width" value="1405" />
     <option name="height" value="927" />
   </component>
@@ -108,15 +105,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564448055266</updated>
-      <workItem from="1564448061656" duration="3990000" />
+      <workItem from="1564448061656" duration="4496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3990000" />
+    <option name="totallyTimeSpent" value="4496000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1995" y="381" width="1405" height="927" extended-state="0" />
+    <frame x="1048" y="334" width="1405" height="927" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -148,8 +145,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="315">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
         </state>
       </provider>
     </entry>
