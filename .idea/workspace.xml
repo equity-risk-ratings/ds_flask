@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bcbe910b-a34e-4726-bf78-8966f0efae17" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../DS-Unit-2-Project-2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lambdatadwight/lambdatadwight.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lambdatadwight/lambdatadwight/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lambdatadwight/setup.py" beforeDir="false" />
@@ -108,16 +107,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564448055266</updated>
-      <workItem from="1564448061656" duration="5910000" />
+      <workItem from="1564448061656" duration="6043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5910000" />
+    <option name="totallyTimeSpent" value="6043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1625" y="347" width="1405" height="927" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19882612" />
