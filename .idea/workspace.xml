@@ -19,8 +19,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="825">
+              <caret line="55" column="80" selection-start-line="55" selection-start-column="80" selection-end-line="55" selection-end-column="80" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,8 +48,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1048" />
-    <option name="y" value="334" />
+    <option name="x" value="1625" />
+    <option name="y" value="347" />
     <option name="width" value="1405" />
     <option name="height" value="927" />
   </component>
@@ -105,15 +108,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564448055266</updated>
-      <workItem from="1564448061656" duration="4496000" />
+      <workItem from="1564448061656" duration="5910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4496000" />
+    <option name="totallyTimeSpent" value="5910000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1048" y="334" width="1405" height="927" extended-state="0" />
+    <frame x="1625" y="347" width="1405" height="927" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -145,8 +148,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state relative-caret-position="825">
+          <caret line="55" column="80" selection-start-line="55" selection-start-column="80" selection-end-line="55" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
